@@ -1,6 +1,6 @@
- 👋 Hi, I’m @BluHunt.
- I’m Interested In Internship(Kotlin, Android).
- I’m Currently BTech CS(AIML) At DYP College of Engineering & Technology, Kolhapur
+ 👋 Hi, I’m @BluHunt.<br>
+ I’m Interested In Internship(Kotlin, Android).<br>
+ I’m Currently BTech CS(AIML) At DYP College of Engineering & Technology, Kolhapur<br>
 
 ## 💼 Skills
 
