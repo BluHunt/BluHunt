@@ -4,11 +4,11 @@
  I’m Currently BTech CS(AIML) At DYP College of Engineering & Technology, Kolhapur
  
 ## 📌 Pinned Repositories
-<a href="https://github.com/BluHunt/Result-Analysis-Application">
-  <img align="center" style="margin:1rem 0.5rem" src="" />
+<a href="https://github.com/braydoncoyer/tailwindcss-v2-dark-mode-template">
+  <img align="center" style="margin:1rem 0.5rem" src="https://github.com/BluHunt/Result-Analysis-Application" />
 </a>
-<a href="https://github.com/BluHunt/Smart-Home">
-  <img align="center" style="margin:1rem 0.5rem" src="" />
+<a href="https://github.com/braydoncoyer/tailwindcss-v2-dark-mode-template">
+  <img align="center" style="margin:1rem 0.5rem" src="https://github.com/BluHunt/Smart-Home" />
 </a>
 
 ## 💼 Skills
