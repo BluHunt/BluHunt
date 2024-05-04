@@ -2,7 +2,7 @@
 
 
 #  💫 About Me:
-🔭 I’m currently working on an android application for generating bills for a security agency<br>🌱 I’m currently pursuing B. Tech in CSE AIML<br>💬 Ask me about Android, Flutter, Kotlin, Python, Java, HTML & CSS <br> Often Failing, Always Learning 
+🔭 I’m currently learning new things to improve myself<br>🌱 I’m currently pursuing B. Tech in CSE AIML<br>💬 Ask me about Android, Flutter, Kotlin, Python, Java, HTML & CSS <br> Often Failing, Always Learning 
 
 
 ## 🌐 Socials:
